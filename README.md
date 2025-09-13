@@ -19,8 +19,9 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Satyam-Singh-x/AI-GYM-TRAINER.git
+
+cd AI-GYM-TRAINER
 
 
 Install dependencies:
